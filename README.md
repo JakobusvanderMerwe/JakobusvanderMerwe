@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Welcome to my public profile! This includes examples and certificates of my current journey in learning how to become a software developer, with zero previous experience. 
 
 Im currently working on understanding the basics of software development.
-Im currently learning from a site called Learn Enough (by Hartle) - the courses have been great for someone that has no prior experience
+Im currently learning from a site called Learn Enough (by Hartle) - the courses have been great for someone that has no prior experience.
 I'm looking for help to obtain an official certificate from a recognized institute - any suggestions?
 You can reach me on vandermerwej06@gmail.com
 
